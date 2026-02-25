@@ -1,1 +1,1 @@
-# sudoku
+# MATH441 Combinatorial Optimization Project - Sudoku
